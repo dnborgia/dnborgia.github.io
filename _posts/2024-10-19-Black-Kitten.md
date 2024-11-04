@@ -7,4 +7,4 @@ author:
 ---
 
 
-[!jpg black_kitten](/assets/images/black_kitten.jpg
+![jpg black_kitten](/assets/images/black_kitten.jpg
